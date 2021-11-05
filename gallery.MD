@@ -1,9 +1,9 @@
 [
   {
     "متن": "درحال بروزرسانی",
-    "عکس": "https://www.uplooder.net/img/image/100/a505db22feba260e89ca38bdbf586afb/Screenshot-۲۰۲۱۱۰۱۵-۱۲۱۱۵۹-PES-2021.jpg",
+    "عکس": "https://www.uplooder.net/img/image/10/f178687a331c1a8b64c366d44fa30c8c/۲۰۲۱۱۱۰۵-۱۵۳۲۵۸.png",
     "کلیک عکس": "",
-    "کلیک": "https://www.uplooder.net/img/image/100/a505db22feba260e89ca38bdbf586afb/Screenshot-۲۰۲۱۱۰۱۵-۱۲۱۱۵۹-PES-2021.jpg",
-    "دانلود عکس": "دانلود"
+    "کلیک": "",
+    "دانلود عکس": ""
   }
 ]
